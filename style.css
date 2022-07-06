@@ -1,0 +1,371 @@
+.Main{
+    width: auto;
+    margin: 0;
+}
+
+.header-site{
+    background-color: 
+    #264653;
+    height: 700px;
+    margin-left:2px;
+}
+.Nav-bar{
+    width: 1040px;
+    margin-left:  auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: flex-end;
+}
+.menubar{
+    color: white;
+}
+.menubar:hover{
+    color:#E76F51;
+}
+.button-login{
+    background-color: #E76F51;
+    color: white;
+    font-family: poppins;
+    font-weight: 500;
+    font-size: 16px;
+    border-radius: 5px;
+    border: none;
+    margin-left:90px;
+    padding: 10px 24px;
+}
+.nav-item{
+    padding: 0 10px;
+}
+
+.list-box{
+    margin-top: 30px;
+}
+.header-body {
+    width: 1120px;
+    margin-top: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.header-body-img{
+    display: flex;
+    justify-content: flex-end;
+}
+.header-body .first-para{
+    font-size: 14px;
+    font-weight: 300;
+    font-family: poppins;
+    color: #E0E0E0;
+}
+.header-body h1{
+    font-family: poppins;
+    font-weight: 600;
+    font-size: 48px;
+    color: white;
+}
+.header-body .scnd-para{
+    font-family: poppins;
+    font-size: 16px;
+    color: #E0E0E0;
+    text-align: justify;
+}
+.button-body{
+    background-color: #E76F51;
+    font-family: poppins;
+    color: white;
+    font-weight: 500;
+    font-size: 16px;
+    border-radius: 5px;
+    border: none;
+    padding: 10px 46px;
+}
+.header-body-img img{
+    width: 95%;
+    height: 95%;
+}
+.company-main{
+    display: flex;
+    justify-content: center;
+}
+.info-bike{
+    padding-top: 63px;
+}
+
+.cards,.person-details,.questions,.low-site{
+    width: 1020px;
+    margin: 0 auto;
+    margin-top: 100px;
+}
+.bikes-pic{
+    width: 1020px;
+    margin: 0 auto;
+    margin-top: 70px;
+}
+.game-card{
+    margin-top: 100px;
+}
+.bike-cards{
+    margin-top: 100px;
+}
+.bikes-pic h1{
+    text-align: center;
+    font-family: poppins;
+    font-weight: 600;
+    font-size: 48px;
+    color: black;
+}
+.bikes-pic p{
+    text-align: center;
+    font-family: poppins;
+    font-size: 14px;
+    font-weight: 600;
+    color: #E76F51;
+}
+
+.three-bikes{
+    margin-top: 100px;
+
+}
+.bike-no-2{
+    display: flex;
+    justify-content:center;
+}
+.bike-no-3{
+    display: flex;
+    justify-content: flex-end;
+}
+.pic-of-bikes img{
+    width: 78%;
+}
+.blk img{
+    mix-blend-mode: luminosity;
+}
+
+.cards h2{
+    text-align: center;
+    font-family: poppins;
+    font-weight: 600;
+    font-size: 48px;
+    color: #0A0826;;
+}
+
+ .except{
+    font-family: poppins;
+    color: #E76F51;
+    border-color: #E76F51;
+    font-weight: 500;
+    font-size: 18px;
+    border-radius: 5px;
+    padding: 13px 40px;
+} 
+.fst-card-btn{
+    background-color: #E76F51;
+    font-weight: 500;
+    font-size: 18px;
+    border-radius: 5px;
+    border: none;
+    padding: 13px 40px;
+}
+.card-footer{
+    border-top: none;
+    background-color: white;
+}
+.crd-bk{
+    border: none;
+}
+
+.person-details h1{
+    font-size: 48px;
+    font-family: poppins;
+    font-weight: 600;
+    text-align: center;
+}
+#hglt{
+    color: #E76F51;
+}
+.user-info,.sol-que,.footer{
+    margin-top: 100px;
+}
+
+.bike-cards p{
+    font-family: poppins;
+    font-size: 16px;
+    font-weight: 400;
+}
+.user-img{
+    width: 50%;
+}
+ .crd-txt{
+    text-align:center;
+}  
+.icons{
+    color: #E77C40;
+    display: flex;
+    justify-content:space-evenly;
+    width: 180px;
+}
+.op{
+     margin-top: 50px;
+}
+.para-of-user-card{
+    margin-top: 20px;
+}
+.except-pic{
+    width: 68%;
+    clip-path: circle();
+}
+.p-user{  
+    margin-top: 10px; 
+}
+
+.banker h6{
+    color: #252B42;
+    font-family: poppins;
+    font-weight:600;
+    font-size: 14px;
+    
+}
+.card-body a{
+    font-family: poppins;
+    font-size: 14px;
+    font-weight: 600;
+    color: #23A6F0;
+    text-decoration:none ;
+}
+.user-cards{
+    padding-bottom: 30px;
+    border:1px solid #DEDEDE;
+}
+.questions h1{
+font-family: poppins;
+font-size: 48px;
+font-weight: 600;
+color: #0D0925;
+text-align: center;
+}
+.questions #hglts{
+
+    color: #E76F51;
+}
+.faq{
+    width: 90%;
+}
+.faq-container{
+    box-sizing: border-box;
+    border: 1px solid #D5E5FB;
+    border-radius: 12px;
+   
+    padding: 16px; 
+    margin-bottom: 15px;
+    
+}
+.faq-container .any-ques{
+    text-decoration: none;
+    color: #383838;
+    font-weight: 500;
+    font-family: poppins;
+    font-size: 20px;
+    line-height: 20px;
+    padding: 7px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+     justify-content: space-between; 
+   
+}
+.faq-container i{
+    padding: 18px; 
+}
+.faq-container .fa-angles-up{
+    display: none;
+}
+ .answer{
+    max-height: 0;
+    overflow: hidden;
+} 
+.answer p{
+    font-size: 14px;
+    font-weight: 400;
+    font-family: poppins;
+    padding: 9px;
+}
+.faq-container:target  .answer{
+     max-height: 15rem;
+     transition: max-height 2s;
+ 
+
+}
+.faq-container:target  .any-ques .fa-angles-up{
+    display: block;
+}
+.faq-container:target  .any-ques .fa-angles-down{
+    display: none;
+}
+
+.footer{
+    background-color: #0B0D17;
+    color: #D9DBE1;
+    margin-left: 2px;
+    margin-bottom: 2px;
+}
+
+.menubar-2{
+    color: #D9DBE1;
+    font-family: manrope;
+    font-weight: 400;
+    font-size: 16px;
+    padding: 0 10px;
+    
+}
+.menubar-3{
+    color: #D9DBE1;
+    font-family: manrope;
+    font-weight: 400;
+    font-size: 16px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 0px; 
+}
+.menubar-2:hover,.menubar-3:hover{
+    color: #E76F51;
+}
+.tow-bars-1{
+  position: relative;
+  bottom: 27px; 
+}
+.footer-para{
+    font-family: manrope;
+    font-weight: 400;
+    font-size: 14px;
+    margin-top: 6px;   
+}
+.control-bar-1{
+    margin-left: -30px;
+}
+.control-bar-2{
+    margin-left: -30px;
+}
+
+
+.main-base{
+     display: flex;
+    justify-content:space-between ; 
+     align-items: center; 
+}
+.two-bars-2 img{
+     width:60% 
+     
+}
+.two-bars-2{
+    display: flex;
+    flex-direction: column;
+    align-items:flex-end;
+    position: relative;
+    bottom: 15px;
+}
+.two-bars-2 h6{
+    transform: translateX(-48px);
+}
+.main-base{
+     height: 280px; 
+}
